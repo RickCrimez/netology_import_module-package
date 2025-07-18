@@ -7,5 +7,5 @@
     ├── __init__.py  
     ├── salary.py  
     └── db  
-        ├── __init__.py (пустой файл)  
-        └── people.py
+         ├── __init__.py (пустой файл)  
+         └── people.py
